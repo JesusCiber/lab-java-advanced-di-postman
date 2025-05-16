@@ -90,6 +90,7 @@ Once you finish the assignment, submit a URL link to your repository or your pul
 Update your repository’s `README.md` to include:
 
 - A brief explanation of your design choices for the **EarlyBirdDiscountService**.
+
 - Answers to:
   - Why did you choose constructor-based DI for this lab?
   - What advantages do Postman pre-request and post-response scripts offer for automated testing?
